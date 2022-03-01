@@ -10,6 +10,7 @@ namespace OOP_CheWeiHsu_Task14
     {
         static void Main(string[] args)
         {
+         
         }
     }
 }
